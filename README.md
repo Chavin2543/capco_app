@@ -29,6 +29,9 @@ These are the diagram of the project's architecture<br />
 
 There is some adaptation for the assessment, such as model structure, package name, and JSON Decoding/Encoding, but the rest is the same.
 
+## Unit Test
+There are some unit tests in the repository, the code coverage is around 50% because of the timeframe and also I haven't been using TDD from the start. Of course this is based on Andres's Flutter-news as well. 
+
 ## Installation
 
 1.) Clone this Project into your local directory.<br />
@@ -41,7 +44,6 @@ There is some adaptation for the assessment, such as model structure, package na
  ```GMSServices.provideAPIKey("AIzaSyCyLVblb-ky-5hWlOT7a_vV_EjgQ5W38AY")```<br /><br />
  
  After this you should be able to launch the project properly, if you have any problem regarding the functionalities in the detail screen please check according to <br /><br />https://pub.dev/packages/url_launcher<br /><br /> or you can contact me directly
-
 
  
  ## Contact
