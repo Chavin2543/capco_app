@@ -4,9 +4,12 @@
 Hi, my name is Chavin Panicharoen. You can call me Loong. I am a developer currently interested in mobile application development. This is my CAPCO's Flutter assesment.
 
 ## Brief Project Walkthrough
+
+https://user-images.githubusercontent.com/57981346/226173219-9bd29edf-5ad7-4501-810a-2f53c2ae90f4.mov<br/>
+
 This application consists of 2 screens in total including<br />
 
-1.) Home Screen<br/>
+1.) Home Screen (Master Screen)<br/>
   This screen shows a scrollable list of all users from the provided API (https://jsonplaceholder.typicode.com/users). The application's user can tap on each user's card to navigate to the Detail page or swipe to refresh the list for some API Updates.
   
 2.) Detail Screen<br/>
@@ -21,8 +24,8 @@ This application consists of 2 screens in total including<br />
 This project is built using Clean Architecture. Based on Mr.Andreas Velounias's Flutter-news<br />
 
 These are the diagram of the project's architecture<br />
-<p align="center">![image](https://user-images.githubusercontent.com/57981346/226172167-c5bfc5a7-f5f3-42b4-a4ef-1fb7aad8bb69.png)<br /></p>
-<p align="center">![image](https://user-images.githubusercontent.com/57981346/226172269-2d64bb65-7880-4779-891e-09fd04252e9b.png)</p>
+![image](https://user-images.githubusercontent.com/57981346/226172167-c5bfc5a7-f5f3-42b4-a4ef-1fb7aad8bb69.png)<br />
+![image](https://user-images.githubusercontent.com/57981346/226172269-2d64bb65-7880-4779-891e-09fd04252e9b.png)
 
 There is some adaptation for the assessment, such as model structure, package name, and JSON Decoding/Encoding, but the rest is the same.
 
@@ -37,4 +40,12 @@ There is some adaptation for the assessment, such as model structure, package na
  4.) Check Google Map's API Key in Runner.xcworkspace/AppDelegate.swift <br /><br />
  ```GMSServices.provideAPIKey("AIzaSyCyLVblb-ky-5hWlOT7a_vV_EjgQ5W38AY")```<br /><br />
  
- After this you should be able to launch the project properly, if you have any problem regarding the functionalities in the detail page please check according to <br /><br />https://pub.dev/packages/url_launcher<br /><br />
+ After this you should be able to launch the project properly, if you have any problem regarding the functionalities in the detail screen please check according to <br /><br />https://pub.dev/packages/url_launcher<br /><br /> or you can contact me directly
+
+
+ 
+ ## Contact
+If you have any problem installing, building, cloning or running the project, feel free to contact me on any platform.<br/>
+Phone: +6682-704-7606<br/>
+Email: chavinrung2543@hotmail.com<br/>
+LinkedIn: https://www.linkedin.com/in/chavin-panicharoen-76219614a<br/>
