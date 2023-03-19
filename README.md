@@ -5,7 +5,7 @@ Hi, my name is Chavin Panicharoen. You can call me Loong. I am a developer curre
 
 ## Brief Project Walkthrough
 
-https://user-images.githubusercontent.com/57981346/226173219-9bd29edf-5ad7-4501-810a-2f53c2ae90f4.mov<br/>
+<video src='https://user-images.githubusercontent.com/57981346/226173219-9bd29edf-5ad7-4501-810a-2f53c2ae90f4.mov'/><br/>
 
 This application consists of 2 screens in total including<br />
 
